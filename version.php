@@ -27,7 +27,7 @@ defined('MOODLE_INTERNAL') || die();
 
 // based on block "html" version 2012061700;
 $plugin->version = 2013090900;
-$plugin->requires  = 2013051400;        // Requires this Moodle version, 2.5
+$plugin->requires  = 2013111800;        // Requires this Moodle version, 2.6
 $plugin->component = 'block_faculty_tbird';      // Full name of the plugin (used for diagnostics)
 $plugin->maturity = MATURITY_STABLE;
 $plugin->release = '1.0';
